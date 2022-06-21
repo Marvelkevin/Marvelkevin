@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic Transportation**
+- 🔭 I’m currently working on **Angular Clean Architecture**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Web3**
 
